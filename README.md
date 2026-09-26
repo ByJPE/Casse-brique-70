@@ -14,4 +14,15 @@ pour jouer en ligne: https://iawrite2jeremypetit.github.io/Casse-brique-70/
 - Effet CRT (scanlines + vignettage) et sons rétro générés par oscillateurs
 - Pause automatique quand l'onglet perd le focus
 
-- 
+## Structure
+
+```
+.
+├── index.html   # jeu complet (HTML + CSS + JS), fichier unique
+└── README.md
+```
+
+## Licence
+
+MIT — voir [LICENSE](LICENSE).
+
