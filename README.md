@@ -1,4 +1,4 @@
-# Casse briques rétro 70
+# Casse brique rétro 70
 Un casse-brique (breakout) solo en JavaScript vanilla, sans dépendance, jouable au clavier, à la souris ou au doigt. Esthétique rétro monochrome (noir/blanc + accent vert phosphore) avec effet écran cathodique (scanlines, vignettage) et sons synthétisés en Web Audio (aucun fichier audio externe).
 
 ## Jouer
