@@ -4,7 +4,8 @@ Un casse-brique (breakout) solo en JavaScript vanilla, sans dépendance, jouable
 ## Jouer
 
 Ouvrir `index.html` dans un navigateur, ou servir le dossier avec n'importe quel serveur statique. Aucune dépendance, aucune étape de build.
-pour jouer en ligne: https://iawrite2jeremypetit.github.io/Casse-brique-70/
+
+pour jouer en ligne: https://byjpe.github.io/Casse-brique-70/
 
 ## Fonctionnalités
 
